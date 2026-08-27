@@ -1,0 +1,21 @@
+{
+
+    "db_path": "./vx0id.db",
+
+    "log_file": "./vx0id.log",
+
+    "log_level": "INFO",
+
+    "allowed_targets": ["example.com", "test.example.com"],
+
+    "allow_private": false,
+
+    "rate_limit": 10,
+
+    "bind_address": "0.0.0.0",
+
+    "port": 8080,
+
+    "api_token": "your-api-token-here"
+
+}
